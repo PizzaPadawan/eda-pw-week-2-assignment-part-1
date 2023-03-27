@@ -72,7 +72,7 @@ else if (pets < friendsPets){
     mostPets = friendsPets;
 }
 else{
-    mostPets = "My friends and I both have " + pets + " pets.";
+    mostPets = pets;
 }
 // 17 - Write a *switch* statement that logs:
 //      "First is the worst" if your lucky number is 1
